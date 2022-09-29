@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+}
+
+.myheader {
+  background-color: #bde0fe;
+  height: 20vh;
+}
+
+.left-side {
+  background-color: #fff6f9;
+  height: 100vh;
+}
+
+.right-side {
+  background-color: #fff6f9;
+  height: 100vh;
+}
+
+.f-content {
+  background-color: #bde0fe;
+  height: 10vh;
+}
+
+/*# sourceMappingURL=index.css.map */

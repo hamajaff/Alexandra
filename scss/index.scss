@@ -1,0 +1,21 @@
+@use "variables" as var;
+body {
+  margin: 0;
+}
+.myheader {
+  background-color: var.$primary;
+  height: 20vh;
+}
+.left-side {
+  background-color: var.$secondary;
+  height: 100vh;
+}
+.right-side {
+  background-color: var.$secondary;
+  height: 100vh;
+}
+
+.f-content {
+  background-color: var.$primary;
+  height: 10vh;
+}
