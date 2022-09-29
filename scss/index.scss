@@ -1,6 +1,7 @@
 @use "variables" as var;
 body {
   margin: 0;
+  height: 100vh;
 }
 .myheader {
   background-color: var.$primary;
@@ -8,14 +9,21 @@ body {
 }
 .left-side {
   background-color: var.$secondary;
-  height: 100vh;
 }
 .right-side {
   background-color: var.$secondary;
-  height: 100vh;
 }
 
 .f-content {
   background-color: var.$primary;
-  height: 10vh;
+}
+
+.carousel-item {
+}
+ul {
+  list-style: none;
+  color: var.$secondary;
+  i {
+    padding-right: 2%;
+  }
 }

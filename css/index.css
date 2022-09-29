@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  height: 100vh;
 }
 
 .myheader {
@@ -9,17 +10,22 @@ body {
 
 .left-side {
   background-color: #fff6f9;
-  height: 100vh;
 }
 
 .right-side {
   background-color: #fff6f9;
-  height: 100vh;
 }
 
 .f-content {
   background-color: #bde0fe;
-  height: 10vh;
+}
+
+ul {
+  list-style: none;
+  color: #fff6f9;
+}
+ul i {
+  padding-right: 2%;
 }
 
 /*# sourceMappingURL=index.css.map */
